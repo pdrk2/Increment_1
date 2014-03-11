@@ -1,0 +1,6 @@
+c:\users\dinne\documents\visual studio 2013\Projects\ASE_Project\ASE_Project\bin\ASE_Project.dll.config
+c:\users\dinne\documents\visual studio 2013\Projects\ASE_Project\ASE_Project\bin\ASE_Project.dll
+c:\users\dinne\documents\visual studio 2013\Projects\ASE_Project\ASE_Project\bin\ASE_Project.pdb
+c:\users\dinne\documents\visual studio 2013\Projects\ASE_Project\ASE_Project\obj\Debug\ASE_Project.csprojResolveAssemblyReference.cache
+c:\users\dinne\documents\visual studio 2013\Projects\ASE_Project\ASE_Project\obj\Debug\ASE_Project.dll
+c:\users\dinne\documents\visual studio 2013\Projects\ASE_Project\ASE_Project\obj\Debug\ASE_Project.pdb
